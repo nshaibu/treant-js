@@ -1,7 +1,7 @@
 {
   "name": "treantjs",
   "version": "1.0.0",
-  "description": "JavaScipt library for visualization of tree diagrams",
+  "description": "JavaScript library for visualization of tree diagrams",
   "main": "Treant.js",
   "directories": {
     "example": "examples"
